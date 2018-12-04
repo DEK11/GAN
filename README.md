@@ -1,2 +1,2 @@
 # GAN
-Generative Adversarial Network
+Generative Adversarial Network on MNSIT data
